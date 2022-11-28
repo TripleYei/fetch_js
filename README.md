@@ -5,5 +5,5 @@
 ~~~~
 https://jsonplaceholder.typicode.com/posts
 ~~~~
-## Website
+## Accede a la web
 <a href="https://tripleyei.github.io/fetch_js/">https://tripleyei.github.io/fetch_js/</a>
