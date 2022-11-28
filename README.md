@@ -1,6 +1,6 @@
 # fetch_js
 
-# Uso de api de prueba
+## Uso de api de prueba
 
 ~~~~
 https://jsonplaceholder.typicode.com/posts
